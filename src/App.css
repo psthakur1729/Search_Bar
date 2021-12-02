@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&display=swap");
+.App {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  font-size: large;
+  flex-direction: column;
+  font-family: "Nunito", sans-serif;
+  background-image: linear-gradient(90deg, #0c1777, #0b70b4);
+}
+.Heading{
+  align-items: center;
+  font-size: xx-large;
+  text-align: center;
+  font-family: "Nunito", sans-serif;
+  background-image: linear-gradient(90deg, #0c1777, #0b70b4);
+  color: aliceblue;
+}
+body {
+  padding: 0;
+  margin: 0;
+}
